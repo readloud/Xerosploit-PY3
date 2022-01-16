@@ -50,7 +50,7 @@ Compatible with
     <tr>
         <td> Kali linux </td>
         <td> Rolling / Sana (2021.x) </td>
-        <td> Windows Subsystem Linux Kali Linux (2021.x) </td>
+        <td> Windows Subsystem Linux </td>
     </tr>
     <tr>
         <td>Parrot OS</td>
