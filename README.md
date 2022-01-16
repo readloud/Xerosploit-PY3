@@ -50,6 +50,8 @@ Compatible with
     <tr>
         <td> Kali linux </td>
         <td> Rolling / Sana (2021.x) </td>
+    </tr>
+    <tr>   
         <td> Windows Subsystem Linux </td>
     </tr>
     <tr>
