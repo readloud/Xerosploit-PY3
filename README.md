@@ -53,7 +53,7 @@ Compatible with
     </tr>
     <tr>   
         <td> Windows Subsystem Linux </td>
-        <td> WSL / WSL.2 </td>
+        <td> WSL / WSL.2 (2021.x) </td>
     </tr>
     <tr>
         <td>Parrot OS</td>
