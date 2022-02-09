@@ -75,4 +75,6 @@ features
 - Drifnet
 - Webpage defacement and more ...
  
- # Xerosploit python 2 Base [github](https://github.com/LionSec/xerosploit)
+ # Xerosploit python3 source code Based:
+   [LionSec](https://github.com/LionSec/xerosploit.git)
+   [IR0DayToday](https://github.com/IR0DayToday/Xerosploit-PY3.git)
