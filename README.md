@@ -76,5 +76,7 @@ features
 - Webpage defacement and more ...
  
  # Xerosploit python3 source code Based:
-   [LionSec](https://github.com/LionSec/xerosploit.git)
-   [IR0DayToday](https://github.com/IR0DayToday/Xerosploit-PY3.git)
+    
+ * [LionSec](https://github.com/LionSec/xerosploit.git)
+    
+ * [IR0DayToday](https://github.com/IR0DayToday/Xerosploit-PY3.git)
